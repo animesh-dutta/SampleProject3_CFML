@@ -3,6 +3,7 @@
 	File Description:Landing page of the application
 	File Modified on:Dec 15,2017
  --->
+ 
 <!--- <cflocation url="home.cfm"> --->
 <!--- cfparam name="variable1" default="100" type="any">
 <cfoutput>#variable1#</cfoutput>
@@ -14,6 +15,7 @@
 <cfdump var="#obj1.getRemoteFunction()#"> --->
 <div style="float:left">
 Click on the below links to have knowledge on Advanced CFML-<br/>
+
 <a href="cfdocument.cfm" target="_blank">Document(cfdocument)</a><br/>
 <a href="cfstoredproc.cfm" target="_blank">Stored Procedure</a><br/>
 <a href="clients.cfm" target="_blank">Client Variable</a><br/>
