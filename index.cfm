@@ -30,4 +30,5 @@ Click on the below links to have knowledge on Advanced CFML-<br/>
 <a href="includeandmodule.cfm" target="_blank">cfinclude and cfmodule</a><br/>
 <a href="leftmidright.cfm" target="_blank">String Manipulation</a><br/>
 <a href="numbermanipulation.cfm" target="_blank">Number Manipulation</a><br/>
+
 </div>
