@@ -1,4 +1,5 @@
 <!--- Author::Animesh Dutta --->
+
 <cfset str="ColdFusion">
 --------mid-----------------<br/>
 <cfdump var="#mid(str,4,2)#"><br/>
