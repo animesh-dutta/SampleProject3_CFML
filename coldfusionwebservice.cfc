@@ -1,6 +1,7 @@
 <!--- 
 ColdFusion Web service
  --->
+
  <cfcomponent hint="Authentication webservice">
  	<!--- 
  	<cffunction name="getUserDetails" access="remote" returntype="Any">
