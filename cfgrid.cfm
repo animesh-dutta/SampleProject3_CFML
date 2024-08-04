@@ -1,7 +1,6 @@
 <h2> Users List(bind component)</h2>
 
 
-
 <!---The below query is used here for understanding purpose --->
 <cfquery name="getUserDetails" datasource="phonebook">
 			Select name,email,phonenumber,userCreatedOn from users order by '' asc
