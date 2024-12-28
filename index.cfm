@@ -1,5 +1,4 @@
 <!--- 
-
 	Author:Animesh Dutta
 	File Description:Landing page of the application
 	File Name:index.cfm
