@@ -1,4 +1,3 @@
-
 <cfchart name="chart" format="png">
 	<cfchartseries type="pie">
 		<cfchartdata item="IT" value="40">
