@@ -7,6 +7,6 @@
 <!--- 
 serializeQueryByColumns should be false.But by default it is false.
  --->
-	<cfoutput>
+	<cfoutput> 
 		#serializeJSON(queryConvertForGrid(getUserDetails,page,pagesize),false)#
 	</cfoutput>
