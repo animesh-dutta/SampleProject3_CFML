@@ -1,5 +1,5 @@
 <cfcomponent output="false" hint="user object">
-	<!--- 
+	<!---  
 	access must be remote
 	 --->
 	<cffunction name="getUserDetails" access="remote" output="false">
