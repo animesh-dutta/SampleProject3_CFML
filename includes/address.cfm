@@ -1,4 +1,3 @@
-
 <cfset city="Universe">
 <cfoutput>#city#</cfoutput>
 <!--- 
