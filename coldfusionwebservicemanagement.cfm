@@ -34,7 +34,7 @@
 				</contactdetails>
  			</cfxml>
  	
-<!--- 
+<!---
 <cfset local={}>
 <cfset local.isxml=isXml(contacts)>
 <cfset xmlDocumentObject=xmlParse(local.isxml)>
