@@ -15,7 +15,6 @@ Here we are using Single label inheritance
 
 <cfset oopsParentObj=createObject("component","components.oopsParent")>
 
-
 <cfset oopsParentParentObj=createObject("component","components.oopsParentParent")>
 
 <cfdump var="#oopsChild1Obj#" label="Child1">
