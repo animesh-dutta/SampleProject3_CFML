@@ -2,7 +2,7 @@
 	Select name,email,phonenumber from users
 	<cfif gridsortcolumn neq "" and gridsortdirection neq "">
 		order by #gridsortcolumn# #gridsortdirection#
-	</cfif>
+	</cfif> 
 </cfquery> 
 <!--- 
 serializeQueryByColumns should be false.But by default it is false.
