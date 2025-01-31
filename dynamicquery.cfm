@@ -7,9 +7,7 @@
 <cfoutput query="getUsers">
 	#getUsers["name"][5]#
 </cfoutput>
- --->
-
-
+ ---> 
 <style>
 	.evenRow{
 	background-color:silver;
