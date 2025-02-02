@@ -1,5 +1,4 @@
 <cfset x=100000000>
-
 <cfoutput>#DollarFormat(x)#</cfoutput>
 <cfoutput>
     <p>The ceiling of 3.3 is #ceiling(3.3)#</p>
