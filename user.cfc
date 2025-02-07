@@ -1,4 +1,4 @@
-<cfcomponent output="false" hint="user object">
+<cfcomponent output="false" hint="user object"> 
 	<!---  
 	access must be remote
 	 --->
