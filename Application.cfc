@@ -1,8 +1,6 @@
 <!--- 
-Author:Animesh Dutta
+Author:Animesh Dutta (Ananya Birla)
  --->
-
-
 <cfcomponent displayname="Application" output="false">
 
 	<!---
