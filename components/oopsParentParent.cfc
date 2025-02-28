@@ -1,4 +1,5 @@
 <!--- 
+Author:Animesh Dutta (Ananya Birla)
 Object Oriented ColdFusion
 1)Data encapsulation(creating component and inside that creating variables and functions as single unit)
 2)Data hiding using private access specifier.Default access specifier is public
