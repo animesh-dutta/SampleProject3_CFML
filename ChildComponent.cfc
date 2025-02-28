@@ -1,4 +1,4 @@
-<!--- Author:Animesh Dutta --->
+<!--- Author:Animesh Dutta (Ananya Birla) --->
 <cfcomponent output="false" extends="components.ParentComponent">
 
 	<cffunction name="childdisplay">
