@@ -1,4 +1,4 @@
-<!--- Author:Animesh Dutta --->
+<!--- Author:Animesh Dutta (Ananya Birla)  --->
 <cfcomponent output="false">
 	<cfset this.thisscopename="this scope value">
 	<!--- Variables scope will not be avaiable out side the component and even in the child component --->
