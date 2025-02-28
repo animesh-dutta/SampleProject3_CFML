@@ -1,4 +1,4 @@
-<!--- Author:Animesh Dutta --->
+<!--- Author:Animesh Dutta (Ananya Birla) --->
 <!--- Creating object for ParentComponent --->
 
 <cfset parentobject=createobject("component","components.ParentComponent")>
