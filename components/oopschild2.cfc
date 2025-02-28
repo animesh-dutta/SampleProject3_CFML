@@ -1,3 +1,4 @@
+<!--- Author:Animesh Dutta (Ananya Birla) --->
 <cfcomponent output="false" extends="components.oopsParent">
 	<cffunction name="getParent" access="public">
 		<cfset par=super.getParent()>
