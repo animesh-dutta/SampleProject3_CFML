@@ -1,4 +1,6 @@
-
+<!---
+Author:Animesh Dutta (Ananya Birla)
+--->
 <cfchart name="chart" format="png">
 	<cfchartseries type="pie">
 		<cfchartdata item="IT" value="40">
