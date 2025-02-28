@@ -1,4 +1,5 @@
 <!--- 
+Author:Animesh Dutta (Ananya Birla)
  cfpagination.cfm
  --->
 <cfparam name="MaxRows" default="5">
