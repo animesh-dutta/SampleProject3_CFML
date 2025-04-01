@@ -1,5 +1,5 @@
 <!---
-Author:Animesh Dutta (Ananya Birla)
+Author:Animesh Dutta (Ananya Birla) 
 --->
 <cfquery name="getUserDetails" datasource="phonebook">
 	Select name,email,phonenumber from users
