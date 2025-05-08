@@ -9,7 +9,7 @@ For downloading in a particular format,you have to the below two tags
  --->
 <cfheader name="Content-Disposition" value="attachment; filename=cfcontenttest.xls"> --->
 <cfcontent type="application/vnd.msexcel"> 
-<!--- 
+<!---  
 <cfheader name="Content-Disposition" value="attachment; filename=cfcontenttest.doc">
 <cfcontent type="application/msword"> 
  --->
