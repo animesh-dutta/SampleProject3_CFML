@@ -4,7 +4,7 @@ Object Oriented ColdFusion
 1)Data encapsulation(creating component and inside that creating variables and functions as single unit)
 2)Data hiding using private access specifier.Default access specifier is public
 3)Creating Objects
-4)Inheritance
+4)Inheritance 
  --->
 
 <cfcomponent output="false">
