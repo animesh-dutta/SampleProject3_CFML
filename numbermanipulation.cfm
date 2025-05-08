@@ -34,4 +34,4 @@ Author:Animesh Dutta (Ananya Birla)
 
 <p>Int(11.7) : <cfoutput>#Int(11.7)#</cfoutput>
 <p>Int(-11.7) : <cfoutput>#Int(-11.7)#</cfoutput>
-<p>Int(0) : <cfoutput>#Int(0)#</cfoutput>
+<p>Int(0) : <cfoutput>#Int(0)#</cfoutput> 
