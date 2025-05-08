@@ -6,7 +6,6 @@ Author:Animesh Dutta (Ananya Birla)
 	<!---
 	PROPERTIES - APPLICATION SPECIFIC
 	--->
-	
 	<cfset this.name = "AnimeshDutta" />
 	<cfset this.loginStorage = "session" />
 	<cfset this.sessionManagement = true />
