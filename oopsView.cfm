@@ -1,6 +1,6 @@
 <!---
 Author:Animesh Dutta (Ananya Birla)
---->
+---> 
 <!--- Child1 component(sub component) --->
 <cfset oopsChild1Obj=createObject("component","components.oopschild1").init(name='Animesh Dutta',City='A,B,C')>
 
