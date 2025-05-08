@@ -7,7 +7,7 @@ Author:Animesh Dutta (Ananya Birla)
 		  --->
 		  <!--- 
 		  You can try to put the files in coldfusion webroot.It will work out
-		   --->
+		   ---> 
  <cfset bindURL="URL:userDetailsForGrid.cfm?page={cfgridpage}&pagesize={cfgridpagesize}&gridsortcolumn={cfgridsortcolumn}&gridsortdirection={cfgridsortdirection}"> 
 <cfform name="userform" method="post">
 	<!--- cfgrid format must be html here --->
