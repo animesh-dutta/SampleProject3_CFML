@@ -1,6 +1,6 @@
 <!---
 Author:Animesh Dutta (Ananya Birla)
---->  
+--->   
 <cfcomponent output="false" hint="user object"> 
 	<!---  
 	access must be remote
