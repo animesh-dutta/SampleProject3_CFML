@@ -1,5 +1,5 @@
 <!--- Author:Animesh Dutta (Ananya Birla) --->
- 
+  
 <cfset str="ColdFusion">
 --------mid-----------------<br/>
 <cfdump var="#mid(str,4,2)#"><br/>
