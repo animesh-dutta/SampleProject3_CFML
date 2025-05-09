@@ -1,12 +1,13 @@
 <!---
 Author:Animesh Dutta (Ananya Birla)
-<cfinvoke webservice="http://localhost:8500/coldfusionwebservice.cfc?wsdl" method="getUserDetails" returnvariable="userDetails">
+<!---Adobe ColFusion 2025 version--->
+<cfinvoke webservice="http://localhost:8501/coldfusionwebservice.cfc?wsdl" method="getUserDetails" returnvariable="userDetails">
 	<cfinvokeargument name="token" value="asdf">
 	<cfinvokeargument name="username" value="adutta">
 </cfinvoke>
  --->
 <!--- 
-<cfinvoke webservice="http://localhost:8500/coldfusionwebservice.cfc?wsdl" method="getUsers" returnvariable="userDetails">
+<cfinvoke webservice="http://localhost:8501/coldfusionwebservice.cfc?wsdl" method="getUsers" returnvariable="userDetails">
 </cfinvoke> --->
 <cfquery name="users" datasource="phonebook">
  				select * from users
@@ -40,8 +41,8 @@ Author:Animesh Dutta (Ananya Birla)
 <cfset local.isxml=isXml(contacts)>
 <cfset xmlDocumentObject=xmlParse(local.isxml)>
 <cfdump var="#local#"> --->
-<cfdump var="#contacts#">
+<cfdump var="#contacts#" label="Contacts">
 <cfset local={}>
 <cfset local.JSONFormatData='{"ROWCOUNT":"","MESSAGE":"","DATA":""}'/>
 <cfset local.jsonFeed.ROWCOUNT='{"ROWCOUNT":"","MESSAGE":"","DATA":"[]"}'/>
-<cfdump var="#local#">
+<cfdump var="#local#" label="local">
