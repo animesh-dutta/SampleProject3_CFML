@@ -2,7 +2,7 @@
 	Author:Animesh Dutta (Ananya Birla)
 	File Description:Landing page of the application
 	File Name:index.cfm
- --->             
+ --->              
 <!--- <cflocation url="home.cfm"> --->
  
 <!--- cfparam name="variable1" default="100" type="any">
